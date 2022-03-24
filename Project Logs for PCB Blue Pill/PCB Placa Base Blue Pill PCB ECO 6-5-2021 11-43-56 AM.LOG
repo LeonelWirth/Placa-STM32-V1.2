@@ -1,0 +1,6 @@
+Added Component: Designator=D1(DO - 41)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetCon1_1 Pin=D1-A
+Added Pin To Net: NetName=NetC1_1 Pin=D1-K
+Added Member To Class: ClassName=Placa Base Blue Pill Member=Component D1 1N4007
+Added Room: Name=Placa Base Blue Pill

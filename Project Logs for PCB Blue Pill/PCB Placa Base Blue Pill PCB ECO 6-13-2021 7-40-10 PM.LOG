@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=P7-1
+Removed Pin From Net: NetName=Net*1_5 Pin=P7-2
+Removed Pin From Net: NetName=Net*1_6 Pin=P7-3
+Removed Member From Class: ClassName=Placa Base Blue Pill Member=P7
+Added Component: Designator=U2(HC12)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=Net*1_6 Pin=U2-3
+Added Pin To Net: NetName=Net*1_5 Pin=U2-4
+Added Member To Class: ClassName=Placa Base Blue Pill Member=Component U2 HC-12
+Added Room: Name=Placa Base Blue Pill

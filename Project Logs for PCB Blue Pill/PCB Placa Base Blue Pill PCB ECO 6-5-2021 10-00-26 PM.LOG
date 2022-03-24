@@ -1,0 +1,21 @@
+Added Pin To Net: NetName=NetC9_2 Pin=*1-13
+Added Pin To Net: NetName=NetC7_2 Pin=*1-14
+Added Pin To Net: NetName=NetC5_2 Pin=*1-15
+Added Pin To Net: NetName=NetC3_2 Pin=*1-16
+Change Net Name : Old Net Name=NetC3_2 New Net Name=I1
+Change Net Name : Old Net Name=NetC5_2 New Net Name=I2
+Change Net Name : Old Net Name=NetC7_2 New Net Name=I3
+Change Net Name : Old Net Name=NetC9_2 New Net Name=I4
+Added Pin To Net: NetName=NetP8_2 Pin=P8-2
+Added Pin To Net: NetName=NetP8_2 Pin=R2-1
+Added Net: Name=NetP8_2
+Added Pin To Net: NetName=NetP9_2 Pin=P9-2
+Added Pin To Net: NetName=NetP9_2 Pin=R5-1
+Added Net: Name=NetP9_2
+Added Pin To Net: NetName=NetP10_2 Pin=P10-2
+Added Pin To Net: NetName=NetP10_2 Pin=R8-1
+Added Net: Name=NetP10_2
+Added Pin To Net: NetName=NetP11_2 Pin=P11-2
+Added Pin To Net: NetName=NetP11_2 Pin=R11-1
+Added Net: Name=NetP11_2
+Added Room: Name=Placa Base Blue Pill

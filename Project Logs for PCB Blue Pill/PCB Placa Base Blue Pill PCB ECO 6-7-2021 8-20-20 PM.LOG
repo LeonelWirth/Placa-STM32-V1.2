@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=I4 Pin=*1-13
+Removed Pin From Net: NetName=I3 Pin=*1-14
+Removed Pin From Net: NetName=I2 Pin=*1-15
+Removed Pin From Net: NetName=I1 Pin=*1-16
+Added Pin To Net: NetName=I3 Pin=*1-13
+Added Pin To Net: NetName=I4 Pin=*1-14
+Added Pin To Net: NetName=I1 Pin=*1-15
+Added Pin To Net: NetName=I2 Pin=*1-16
+Added Room: Name=Placa Base Blue Pill

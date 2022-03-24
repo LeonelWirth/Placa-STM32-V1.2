@@ -1,0 +1,36 @@
+Remove Pin=P12-1 From Net=3V3
+Remove Pin=P12-3 From Net=SCL
+Remove Pin=P12-4 From Net=SDA
+Remove Pin=U3-HV1 From Net=IN3_1_Hv
+Remove Pin=U3-HV2 From Net=IN3_2_Hv
+Remove Pin=U3-HV3 From Net=IN4_2_Hv
+Remove Pin=U3-HV4 From Net=IN4_1_Hv
+Remove Pin=U3-HV From Net=5V
+Remove Pin=U3-LV1 From Net=IN3_1
+Remove Pin=U3-LV2 From Net=IN3_2
+Remove Pin=U3-LV3 From Net=IN4_2
+Remove Pin=U3-LV4 From Net=IN4_1
+Remove Pin=U3-LV From Net=3V3
+Remove Pin=U4-HV1 From Net=PWM4_Hv
+Remove Pin=U4-HV2 From Net=PWM3_Hv
+Remove Pin=U4-HV3 From Net=PWM2_Hv
+Remove Pin=U4-HV4 From Net=PWM1_Hv
+Remove Pin=U4-HV From Net=5V
+Remove Pin=U4-LV1 From Net=PWM4
+Remove Pin=U4-LV2 From Net=PWM3
+Remove Pin=U4-LV3 From Net=PWM2
+Remove Pin=U4-LV4 From Net=PWM1
+Remove Pin=U4-LV From Net=3V3
+Remove Pin=U5-HV1 From Net=IN1_1_Hv
+Remove Pin=U5-HV2 From Net=IN1_2_Hv
+Remove Pin=U5-HV3 From Net=IN2_2_Hv
+Remove Pin=U5-HV4 From Net=IN2_1_Hv
+Remove Pin=U5-HV From Net=5V
+Remove Pin=U5-LV1 From Net=IN1_1
+Remove Pin=U5-LV2 From Net=IN1_2
+Remove Pin=U5-LV3 From Net=IN2_2
+Remove Pin=U5-LV4 From Net=IN2_1
+Remove Pin=U5-LV From Net=3V3
+Change Component Designator: OldDesignator=Buck1 NewDesignator=Step Down
+Change Component Designator: OldDesignator=P5 NewDesignator=M 1-2
+Change Component Designator: OldDesignator=P6 NewDesignator=M 3-4

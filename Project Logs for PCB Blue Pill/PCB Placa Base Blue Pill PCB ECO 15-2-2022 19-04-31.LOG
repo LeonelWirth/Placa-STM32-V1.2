@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=5V Pin=Con2-1
+Removed Pin From Net: NetName=GND Pin=Con2-2
+Added Component: Designator=U3(CONV_BOB-12009)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SparkFun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BOB-12009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BOB-12009/SparkFun%20Electronics/view-part/551764/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(CONV_BOB-12009)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SparkFun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BOB-12009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BOB-12009/SparkFun%20Electronics/view-part/551764/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U5(CONV_BOB-12009)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SparkFun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BOB-12009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BOB-12009/SparkFun%20Electronics/view-part/551764/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetPS1_2 Pin=Con2-1
+Added Pin To Net: NetName=NetPS1_1 Pin=Con2-2
+Added Pin To Net: NetName=GND Pin=U3-GND_1
+Added Pin To Net: NetName=GND Pin=U3-GND_2
+Added Pin To Net: NetName=GND Pin=U4-GND_1
+Added Pin To Net: NetName=GND Pin=U4-GND_2
+Added Pin To Net: NetName=GND Pin=U5-GND_1
+Added Pin To Net: NetName=GND Pin=U5-GND_2
+Change Net Name : Old Net Name=NetPS1_1 New Net Name=NetCon2_2
+Change Net Name : Old Net Name=NetPS1_2 New Net Name=NetCon2_1
+Added Member To Class: ClassName=Placa Base Blue Pill Member=Component U3 Conversor de nivel
+Added Member To Class: ClassName=Placa Base Blue Pill Member=Component U4 Conversor de nivel
+Added Member To Class: ClassName=Placa Base Blue Pill Member=Component U5 Conversor de nivel
+Added Room: Name=Placa Base Blue Pill

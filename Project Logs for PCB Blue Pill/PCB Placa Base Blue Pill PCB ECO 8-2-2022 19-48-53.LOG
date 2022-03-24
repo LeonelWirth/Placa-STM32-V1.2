@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=PWM1_Hv Pin=P5-3
+Added Pin To Net: NetName=PWM2_Hv Pin=P5-4
+Added Pin To Net: NetName=IN1_1_Hv Pin=P5-5
+Added Pin To Net: NetName=IN2_1_Hv Pin=P5-6
+Added Pin To Net: NetName=IN1_2_Hv Pin=P5-7
+Added Pin To Net: NetName=IN2_2_Hv Pin=P5-8
+Added Pin To Net: NetName=PWM3_Hv Pin=P6-3
+Added Pin To Net: NetName=PWM4_Hv Pin=P6-4
+Added Pin To Net: NetName=IN3_1_Hv Pin=P6-5
+Added Pin To Net: NetName=IN4_1_Hv Pin=P6-6
+Added Pin To Net: NetName=IN3_2_Hv Pin=P6-7
+Added Pin To Net: NetName=IN4_2_Hv Pin=P6-8
+Added Room: Name=Placa Base Blue Pill

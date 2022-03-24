@@ -1,0 +1,76 @@
+Change Component Designator: OldDesignator=M 1-2 NewDesignator=P5
+Change Component Designator: OldDesignator=M 3-4 NewDesignator=P6
+Change Component Designator: OldDesignator=Step Down NewDesignator=Buck1
+Added Component: Designator=P12(1X04)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U3(CONV_BOB-12009)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SparkFun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BOB-12009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BOB-12009/SparkFun%20Electronics/view-part/551764/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(CONV_BOB-12009)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SparkFun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BOB-12009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BOB-12009/SparkFun%20Electronics/view-part/551764/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U5(CONV_BOB-12009)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SparkFun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BOB-12009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BOB-12009/SparkFun%20Electronics/view-part/551764/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=P12-1
+Added Pin To Net: NetName=GND Pin=P12-2
+Added Pin To Net: NetName=SCL Pin=P12-3
+Added Pin To Net: NetName=SDA Pin=P12-4
+Added Pin To Net: NetName=GND Pin=U3-GND_1
+Added Pin To Net: NetName=GND Pin=U3-GND_2
+Added Pin To Net: NetName=IN3_1_Hv Pin=U3-HV1
+Added Pin To Net: NetName=IN3_2_Hv Pin=U3-HV2
+Added Pin To Net: NetName=IN4_2_Hv Pin=U3-HV3
+Added Pin To Net: NetName=IN4_1_Hv Pin=U3-HV4
+Added Pin To Net: NetName=5V Pin=U3-HV
+Added Pin To Net: NetName=IN3_1 Pin=U3-LV1
+Added Pin To Net: NetName=IN3_2 Pin=U3-LV2
+Added Pin To Net: NetName=IN4_2 Pin=U3-LV3
+Added Pin To Net: NetName=IN4_1 Pin=U3-LV4
+Added Pin To Net: NetName=3V3 Pin=U3-LV
+Added Pin To Net: NetName=GND Pin=U4-GND_1
+Added Pin To Net: NetName=GND Pin=U4-GND_2
+Added Pin To Net: NetName=PWM4_Hv Pin=U4-HV1
+Added Pin To Net: NetName=PWM3_Hv Pin=U4-HV2
+Added Pin To Net: NetName=PWM2_Hv Pin=U4-HV3
+Added Pin To Net: NetName=PWM1_Hv Pin=U4-HV4
+Added Pin To Net: NetName=5V Pin=U4-HV
+Added Pin To Net: NetName=PWM4 Pin=U4-LV1
+Added Pin To Net: NetName=PWM3 Pin=U4-LV2
+Added Pin To Net: NetName=PWM2 Pin=U4-LV3
+Added Pin To Net: NetName=PWM1 Pin=U4-LV4
+Added Pin To Net: NetName=3V3 Pin=U4-LV
+Added Pin To Net: NetName=GND Pin=U5-GND_1
+Added Pin To Net: NetName=GND Pin=U5-GND_2
+Added Pin To Net: NetName=IN1_1_Hv Pin=U5-HV1
+Added Pin To Net: NetName=IN1_2_Hv Pin=U5-HV2
+Added Pin To Net: NetName=IN2_2_Hv Pin=U5-HV3
+Added Pin To Net: NetName=IN2_1_Hv Pin=U5-HV4
+Added Pin To Net: NetName=5V Pin=U5-HV
+Added Pin To Net: NetName=IN1_1 Pin=U5-LV1
+Added Pin To Net: NetName=IN1_2 Pin=U5-LV2
+Added Pin To Net: NetName=IN2_2 Pin=U5-LV3
+Added Pin To Net: NetName=IN2_1 Pin=U5-LV4
+Added Pin To Net: NetName=3V3 Pin=U5-LV
+Added Member To Class: ClassName=Placa Base Blue Pill Member=Component P12 Header 4
+Added Member To Class: ClassName=Placa Base Blue Pill Member=Component U3 Conversor de nivel
+Added Member To Class: ClassName=Placa Base Blue Pill Member=Component U4 Conversor de nivel
+Added Member To Class: ClassName=Placa Base Blue Pill Member=Component U5 Conversor de nivel
+Added Room: Name=Placa Base Blue Pill

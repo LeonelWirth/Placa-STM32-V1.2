@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=5V Pin=P5-1
+Removed Pin From Net: NetName=5V Pin=P5-2
+Removed Pin From Net: NetName=5V Pin=P6-1
+Removed Pin From Net: NetName=5V Pin=P6-2
+Added Room: Name=Placa Base Blue Pill
